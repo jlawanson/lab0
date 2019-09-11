@@ -39,14 +39,7 @@ h3 {
   margin-right: auto;
 }
 
-/* #snow-nav {
-  color: black;
+.table-heading {
+  padding-left: 0.5rem;
+  text-decoration: underline;
 }
-
-#fever-nav {
-  color: orangered;
-}
-
-#home-nav {
-  color: teal;
-} */
