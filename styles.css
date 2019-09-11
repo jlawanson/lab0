@@ -19,11 +19,18 @@ h3 {
 
 #title {
   text-transform: uppercase;
+  text-align: center;
+  font: Roboto;
+  padding: 1rem;
 }
 
 .tracklist {
   padding: 1.5rem;
 }
+
+/* .snow-pic {
+
+} */
 
 /* #snow-nav {
   color: black;
